@@ -28,7 +28,7 @@ The steps for this Challenge are divided into the following sections:
 ---
 
 ## Step 3: Interact with Your Deployed Smart Contract:
-* Set Account:
+-  Set Account:
 
 ![SetAccount Screenshot 2022-10-12 072447](https://user-images.githubusercontent.com/105945472/195372854-a56bb6cf-a501-44bd-b804-d8aad4de155f.jpg)
 
